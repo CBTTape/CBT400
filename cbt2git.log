@@ -1,0 +1,15 @@
+2023-04-03 00:02:36.107192 - Initialized conversion of CBT400
+2023-04-03 00:02:36.272152 - Received CBT.V504.FILE400.PDS from FILE400.XMI 
+2023-04-03 00:02:36.275179 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE400.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:02:36.276538 - Found $$DYNDOC.txt (text/plain) in CBT.V504.FILE400.PDS, moved to PDS/$$DYNDOC
+2023-04-03 00:02:36.277719 - Found @FILE400.txt (text/plain) in CBT.V504.FILE400.PDS, moved to PDS/@FILE400
+2023-04-03 00:02:36.277732 - Found DYNAMSK@.bin containing application/octet-stream, moved to PDS/DYNAMSK@
+2023-04-03 00:02:36.279086 - Found DYNAMSK2.bin containing application/octet-stream, moved to PDS/DYNAMSK2
+2023-04-03 00:02:36.280221 - Found DYNAMSK4.bin containing application/octet-stream, moved to PDS/DYNAMSK4
+2023-04-03 00:02:36.281580 - Found DYNAMSK7.bin containing application/octet-stream, moved to PDS/DYNAMSK7
+2023-04-03 00:02:36.283916 - Found DYNASWAP.txt (text/plain) in CBT.V504.FILE400.PDS, moved to PDS/DYNASWAP
+2023-04-03 00:02:36.285073 - Found DYNASWP4.txt (text/plain) in CBT.V504.FILE400.PDS, moved to PDS/DYNASWP4
+2023-04-03 00:02:36.286051 - Found GENERIC.txt (text/plain) in CBT.V504.FILE400.PDS, moved to PDS/GENERIC
+2023-04-03 00:02:36.287080 - Found SYSUNITS.txt (text/plain) in CBT.V504.FILE400.PDS, moved to PDS/SYSUNITS
+2023-04-03 00:02:36.288238 - Found UCBMASK.txt (text/plain) in CBT.V504.FILE400.PDS, moved to PDS/UCBMASK
+2023-04-03 00:02:36.289260 - Found VATUCB.txt (text/plain) in CBT.V504.FILE400.PDS, moved to PDS/VATUCB
